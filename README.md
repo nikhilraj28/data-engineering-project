@@ -76,5 +76,6 @@ Salary was stored as DECIMAL(10,2) to ensure financial accuracy.
 This project simulates a real-world data engineering scenario where raw data is cleaned, validated, stored, and analyzed using industry-standard tools and practices.
 
 ## Note:
+
 Data comes from different formate like CSV, Excel (.xlsx), JSON, XML and database
 so i have practised from CSV,XLSX and json file.
