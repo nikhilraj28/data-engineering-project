@@ -1,0 +1,8 @@
+id,name,age,salary,city,join_date
+1,Nikhil,25,50000,Hyderabad,2022-01-10
+2,Anil,,45000,hyderabad,2022/02/15
+3,Sai,28,not_available,Bangalore,15-03-2022
+4,Ravi,200,65000,Chennai,2022-04-01
+5,Anil,,45000,hyderabad,2022/02/15
+6, ,30,55000,Pune,2022-05-10
+7,Kiran,27,48000,,2022-06-18

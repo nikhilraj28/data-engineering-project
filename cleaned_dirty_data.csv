@@ -1,0 +1,8 @@
+id,name,age,salary,city,join_date,age_was_missing,salary_was_missing
+1,Nikhil,25.0,50000.0,Hyderabad,2022-01-10,No (original),No (original)
+2,Anil,28.0,45000.0,Hyderabad,2022-02-15,Yes (filled),No (original)
+3,Sai,28.0,49000.0,Bangalore,2022-03-15,No (original),Yes (filled)
+4,Ravi,28.0,65000.0,Chennai,2022-04-01,No (original),No (original)
+5,Anil,28.0,45000.0,Hyderabad,2022-02-15,Yes (filled),No (original)
+6,Unknown,30.0,55000.0,Pune,2022-05-10,No (original),No (original)
+7,Kiran,27.0,48000.0,Unknown,2022-06-18,No (original),No (original)
